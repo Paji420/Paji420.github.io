@@ -5,3 +5,5 @@
 <img src = "AJITESH.jpeg">
 1. Aniket
 2. Rajnish
+* Technical
+* Secretary
